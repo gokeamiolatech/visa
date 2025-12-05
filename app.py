@@ -6,3 +6,5 @@ print('grace')
 print('glory')
 print('LSS')
 # Bugs removed
+print('card services automated')
+print('Hello your card needs renewal')
